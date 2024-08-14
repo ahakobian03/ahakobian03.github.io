@@ -186,27 +186,29 @@ body{
   margin-top: 10vh;
   background-color: #1c1c1c;
   color: white;
-  display: flex;
+  
 }
 .footer1{
   display: flex;
-  margin-left: 0;
+  gap:0.5rem;
 }
 .contact{
   position: relative;
-  top:0vh;
-  width: 50%;
-  text-align: end;
+  top:3vh;
+  text-align: center;
+  width: auto;
+  height: 1vh;
   font-size: xx-large;
   font-weight: 100;
-
 }
 .info{
-  margin-top:100vh;
-  width: 50%;
-  margin-left: -90%;
   margin-top:15vh;
+  margin-left: 3vw;
+  width: 42%;
   text-align: start;
+}
+.map{
+  width: 45%;
 }
 iframe{
   position: relative;
