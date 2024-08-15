@@ -333,6 +333,7 @@ iframe{
   }
   .footer1{
     display: grid;
+    gap:5vh;
     width: 100%;
   }
   .contact{
